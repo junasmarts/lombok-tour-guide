@@ -1,6 +1,10 @@
 {
   "name": "Lombok Tourism Guide App",
   "short_name": "Oke Lombok",
+  "start_url": "/",
+  "background_color": "#eeeeee",
+  "theme_color": "#6a1b9a",
+  "display": "standalone",
   "icons": [
     {
      "src": "img/icon-36x36.png",
@@ -38,9 +42,5 @@
      "type": "image/png",
      "density": "4.0"
     }
-   ],
-  "start_url": "/index.html?homescreen=1",
-  "background_color": "#eeeeee",
-  "theme_color": "#6a1b9a",
-  "display": "standalone"
+   ]
 }
